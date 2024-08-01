@@ -1,0 +1,48 @@
+
+
+body{
+    background-color: rgb(7, 29, 4);
+    color: white;
+    font-family: poppinsregular;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#title{
+    flex-direction:column;
+    line-height: 20px; 
+    font-size: large;
+}
+
+h1{
+    font-weight: 200;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+h2{
+    font-size: 56px;
+    line-height: 10px;
+}
+
+h3{
+    color: rgb(100, 150, 9);
+}
+
+span{
+    color: rgb(100, 150, 9);
+}
+
+p{
+    line-height: 20px;
+    max-width: 500px;
+}
+
+img{
+    width: 500px;
+}
