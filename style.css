@@ -25,9 +25,13 @@ main{
     margin-top: 50px;
 }
 
-h2{
+#titulo{
     font-size: 56px;
     line-height: 10px;
+}
+
+h2{
+    color: rgb(100,150,9)
 }
 
 h3{
