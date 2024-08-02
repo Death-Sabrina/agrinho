@@ -13,6 +13,7 @@ body{
     flex-direction:column;
     line-height: 20px; 
     font-size: large;
+    color: rgb(255,255,255);
 }
 
 h1{
